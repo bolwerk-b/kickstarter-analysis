@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter Analysis
 ## **Project Overview**
   For this project, we were tasked with identifying the campaigns outcomes based on their launch dates and their outcomes based on goals. We will complete this with the ‘starterbook’ excel sheet that we began with and creating pivot tables and using key functions that we have been working on in the week. 
 
